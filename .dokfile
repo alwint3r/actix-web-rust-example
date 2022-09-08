@@ -1,0 +1,13 @@
+{
+  "imageName": "greeter-rs",
+  "profiles": [
+    {
+      "id": "default",
+      "asLatest": true,
+      "build": {
+        "dockerfile": "Dockerfile",
+        "args": {}
+      }
+    }
+  ]
+}
